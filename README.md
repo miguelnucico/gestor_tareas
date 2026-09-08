@@ -6,10 +6,18 @@ Python.
 ## Objetivo 
 Preparar la estructura inicial de un proyecto utilizando control de versiones. 
  
-## Herramientas utilizadas - Python - Visual Studio Code - Git - GitHu
+## Herramientas utilizadas 
+- Python 
+- Visual Studio Code 
+- Git 
+- GitHu
 ## Autor 
 Miguel Angel Nucico Magaña
 
 ## Estado del proyecto 
  
 Proyecto en etapa inicial.
+
+## Control de versiones 
+ 
+Este proyecto utiliza Git para el control de versiones y GitHub como repositorio remoto.
