@@ -13,7 +13,3 @@ Miguel Angel Nucico Magaña
 ## Estado del proyecto 
  
 Proyecto en etapa inicial.
-
-git status 
-git add README.md 
-git commit -m "Actualiza documentación del proyecto"
